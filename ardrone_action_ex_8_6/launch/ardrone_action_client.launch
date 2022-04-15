@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="ardrone_action_ex_8_6" 
+          type="ardrone_action_client.py" 
+          name="drone_action_client" 
+          output="screen">
+    </node>
+</launch>
